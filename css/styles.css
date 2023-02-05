@@ -605,7 +605,7 @@ img {
 }
 .customers-icons {
   fill: #8e8f99;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .customers-icons:hover {
   fill: #404bbf;
